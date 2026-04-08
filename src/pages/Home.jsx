@@ -1,5 +1,5 @@
 import flowers from "../data/flowers.json";
-import Card from "../components/card"; // ✅ correct
+import Card from "../components/Card";
 import "./Home.css";
 
 function Home() {
