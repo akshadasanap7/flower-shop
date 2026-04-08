@@ -1,5 +1,5 @@
-import flowers from "../data/flowers.json"; // or .js if you used js
-import Card from "../components/card";
+import flowers from "../data/flowers.json";
+import Card from "../components/card"; // ✅ correct
 import "./Home.css";
 
 function Home() {
