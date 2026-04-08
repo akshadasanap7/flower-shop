@@ -1,0 +1,28 @@
+.welcome {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #fbcfe8, #fda4af);
+  text-align: center;
+}
+
+.welcome h1 {
+  font-size: 2.5rem;
+  color: #be123c;
+}
+
+.welcome button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #be123c;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.welcome button:hover {
+  background: #9f1239;
+}

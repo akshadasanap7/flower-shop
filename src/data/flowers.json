@@ -1,0 +1,23 @@
+[
+  { "id": 1,
+   "name": "Rose", 
+   "color": "Red",
+    "meaning": "Love and Passion",
+     "price": 199,
+     "image": "/images/rose.png" },
+  { "id": 2, 
+  "name": "Lotus", 
+  "color": "Pink", 
+  "meaning": "Purity and Enlightenment",
+   "price": 249, 
+   "image": "/images/lotus.png" },
+  { "id": 3, "name": "Sunflower", "color": "Yellow", "meaning": "Happiness and Energy", "price": 179, "image": "/images/sunflower.png" },
+  { "id": 4, "name": "Tulip", "color": "Purple", "meaning": "Elegance and Grace", "price": 299, "image": "/images/tulip.png" },
+
+  { "id": 5, "name": "Lily", "color": "White", "meaning": "Purity and Renewal", "price": 259, "image": "/images/lily.png" },
+  { "id": 6, "name": "Daisy", "color": "White", "meaning": "Innocence and Joy", "price": 149, "image": "/images/daisy.png" },
+  { "id": 7, "name": "Orchid", "color": "Purple", "meaning": "Luxury and Beauty", "price": 349, "image": "/images/orchid.png" },
+  { "id": 8, "name": "Marigold", "color": "Orange", "meaning": "Warmth and Creativity", "price": 129, "image": "/images/marigold.png" },
+  { "id": 9, "name": "Jasmine", "color": "White", "meaning": "Love and Purity", "price": 199, "image": "/images/jasmine.png" },
+  { "id": 10, "name": "Hibiscus", "color": "Red", "meaning": "Delicate Beauty", "price": 159, "image": "/images/hibiscus.png" }
+]
